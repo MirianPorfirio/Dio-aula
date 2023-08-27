@@ -36,8 +36,8 @@ O Markdown é uma linguagem fácil de ler e de gravar para formatar texto sem fo
 ```
 ```
 git init
-git commit
-git amend -m"Alterando Repositórios"
+git commit -m"Alterando Repositórios"
+git amend 
 git clone
 git pull
 git push
