@@ -13,7 +13,7 @@ Aula: [O que é GitHub?](https://web.dio.me/course/versionamento-de-codigo-com-g
 
 Já o GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Permite que você e outras pessoas trabalhem em conjunto em projetos de qualquer lugar. 
 
-### [O que é Markdonw?](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) 
+### [O que é Markdown?](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) 
 O Markdown é uma linguagem fácil de ler e de gravar para formatar texto sem formatação. Você pode usar a sintaxe Markdown, juntamente com algumas tags HTML adicionais, para formatar a escrita no GitHub, em locais como LEIAMEs do repositório e comentários sobre solicitações de pull e problemas.
 #
 
